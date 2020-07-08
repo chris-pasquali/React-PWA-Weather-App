@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 # React-PWA-Weather-App - https://frosty-jennings-73a2e6.netlify.app/
 A Progressive Weather Application using React
+<<<<<<< HEAD
 =======
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -71,3 +72,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 >>>>>>> Initialize project using Create React App
+=======
+
+https://frosty-jennings-73a2e6.netlify.app/
+>>>>>>> 671d15cee461b13e9093ad02ff915cbe5186b9d7
