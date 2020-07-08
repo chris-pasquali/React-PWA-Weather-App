@@ -1,8 +1,7 @@
-<<<<<<< HEAD
+
 # React-PWA-Weather-App - https://frosty-jennings-73a2e6.netlify.app/
 A Progressive Weather Application using React
-<<<<<<< HEAD
-=======
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
